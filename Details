@@ -1,0 +1,34 @@
+[
+ {
+    title: "Taylor Swift"
+    artist:"Taylor Swift"
+    url:"https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+    image:"https://images-na.ssl-images-amazon.com/images/I/61Mcsad01OL.jpg"
+    thumbnail_image:
+ },
+ {
+   title:"FearLess"
+   artist:
+   image:
+   thumbnail_image:
+ },
+ {
+   title:"SpeakNow"
+   artist:
+   image:
+   thumbnail_image:
+ },
+ {
+   title:"Red"
+   artist:
+   image:
+   thumbnail_image:
+ },
+ {
+   title:"1989"
+   artist:
+   image:
+   thumbnail_image:
+ },
+
+]
